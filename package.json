@@ -1,0 +1,19 @@
+{
+	"name": "registry-machinery",
+	"version": "1.0.0",
+	"description": "Create a central registry of all loaded machinepacks",
+	"main": "registry-machinery.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/registry-machinery"
+	},
+	"author": "rektide de la faye",
+	"license": "X",
+	"dependencies": {
+		"machine": "^10.2.0",
+		"resolve": "^1.1.6"
+	}
+}
